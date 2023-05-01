@@ -1,6 +1,6 @@
 Problem-Link: https://www.interviewbit.com/problems/greater-of-lesser/
 Solved-Date: 01-May-2023
-
+Problem-Level: Very Easy
 
 int Solution::solve(vector<int> &A, vector<int> &B, int C) {
     int count1=0;
