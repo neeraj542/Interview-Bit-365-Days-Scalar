@@ -1,5 +1,5 @@
-//Problem-Link: https://www.interviewbit.com/problems/greater-of-lesser/
-//Solved-Date: 01-May-2023
+//Problem-Link: https://www.interviewbit.com/problems/chips-factory/
+//Solved-Date: 02-May-2023
 //Problem-Level: Very Easy
 
 
