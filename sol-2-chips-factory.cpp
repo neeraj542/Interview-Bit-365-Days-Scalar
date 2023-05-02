@@ -1,3 +1,8 @@
+//Problem-Link: https://www.interviewbit.com/problems/greater-of-lesser/
+//Solved-Date: 01-May-2023
+//Problem-Level: Very Easy
+
+
 vector<int> Solution::solve(vector<int> &A) {
     int n = A.size();
     int emptyCount = 0;
