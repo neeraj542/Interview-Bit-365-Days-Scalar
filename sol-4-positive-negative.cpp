@@ -3,7 +3,7 @@
 //Problem-Level: Very Easy
 
 vector<int> Solution::solve(vector<int> &A) {
-    int positive = 0, negative = 0;
+    int positive = 0, negative = 0; 
     for (int i = 0; i < A.size(); i++) {
         if (A[i] > 0) {
             positive++;
