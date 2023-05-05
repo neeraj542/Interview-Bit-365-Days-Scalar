@@ -1,5 +1,5 @@
 //Problem-Link: https://www.interviewbit.com/problems/positive-negative/
-//Solved-Date: 04-May-2023
+//Solved-Date: 05-May-2023
 //Problem-Level: Very Easy 
 
 int Solution::solve(vector<int> &A) {
