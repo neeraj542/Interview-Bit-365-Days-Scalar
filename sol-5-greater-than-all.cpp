@@ -1,4 +1,4 @@
-//Problem-Link: https://www.interviewbit.com/problems/positive-negative/
+//Problem-Link: https://www.interviewbit.com/problems/greater-than-all/
 //Solved-Date: 05-May-2023
 //Problem-Level: Very Easy 
 
