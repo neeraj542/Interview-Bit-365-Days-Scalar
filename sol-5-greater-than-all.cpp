@@ -4,7 +4,7 @@
 
 int Solution::solve(vector<int> &A) {
     int res = 0, ansWer=0;
-    for (auto i:A) {
+    for (int i=0; i<A.size(); i++) {
         if (i>res){
             ansWer++; 
         }
