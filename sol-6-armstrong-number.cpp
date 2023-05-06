@@ -1,3 +1,5 @@
+
+
 int Solution::solve(int A) {
     int x=0;
     int a= A;
