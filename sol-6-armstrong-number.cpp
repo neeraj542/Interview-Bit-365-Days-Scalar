@@ -4,7 +4,7 @@
  
 int Solution::solve(int A) {
     int x=0;
-    int a= A;
+    int a= A; 
     int n= floor(log10(A) + 1);
     while(a>0){
         int temp = a%10;
