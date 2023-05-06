@@ -1,4 +1,4 @@
-//Problem-Link: https://www.interviewbit.com/problems/greater-than-all/
+//Problem-Link: https://www.interviewbit.com/problems/armstrong-number/
 //Solved-Date: 06-May-2023
 //Problem-Level: Very Easy 
 
