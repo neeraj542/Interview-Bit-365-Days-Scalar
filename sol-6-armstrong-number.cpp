@@ -1,4 +1,6 @@
-
+//Problem-Link: https://www.interviewbit.com/problems/greater-than-all/
+//Solved-Date: 06-May-2023
+//Problem-Level: Very Easy 
 
 int Solution::solve(int A) {
     int x=0;
