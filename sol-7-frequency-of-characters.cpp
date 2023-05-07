@@ -5,7 +5,7 @@
 vector<int> Solution::solve(string A) {
     vector<int>v(26);
     unordered_map<char,int>mp;
-    
+     
     for(int i=0;i<A.length();i++)  
         mp[A[i]]++;
         
