@@ -1,3 +1,7 @@
+//Problem-Link: https://www.interviewbit.com/problems/frequency-of-characters/
+//Solved-Date: 07-May-2023
+//Problem-Level: Very Easy 
+
 vector<int> Solution::solve(string A) {
     vector<int>v(26);
     unordered_map<char,int>mp;
