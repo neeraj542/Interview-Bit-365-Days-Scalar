@@ -2,7 +2,7 @@
 //Solved-Date: 09-May-2023
 //Problem-Level: Easy 
 
-int Solution::numSetBits(unsigned int A) {
+int Solution::numSetBits(unsigned int A) { 
     int cnt = 0;
     while(A != 0){
         if( A & 1){
