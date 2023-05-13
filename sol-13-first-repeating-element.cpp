@@ -1,5 +1,5 @@
 //Problem-Link: https://www.interviewbit.com/problems/first-repeating-element/
-//Solved-Date: 13-May-2023
+//Solved-Date: 13-May-2023 
 //Problem-Level: Easy 
 
 int Solution::solve(vector<int> &A) {
