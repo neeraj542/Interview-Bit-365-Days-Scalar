@@ -8,7 +8,7 @@ int Solution::solve(vector<int> &A) {
     for(int i=0;i<A.size();i++) map[A[i]]++;  
     for(int i=0;i<A.size();i++)  
         if(map[A[i]] > 1) 
-            return A[i];
+            return A[i]; 
     return -1;
 
 }
