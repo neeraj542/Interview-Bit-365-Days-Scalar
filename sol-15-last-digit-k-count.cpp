@@ -1,3 +1,8 @@
+//Problem-Link: https://www.interviewbit.com/problems/last-digit-k-count/
+//Solved-Date: 02-May-2023
+//Problem-Level: Very Easy
+
+
 int Solution::solve(int A, int B, int C) {
     int a = A;
     int b = B;
