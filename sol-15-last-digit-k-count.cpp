@@ -5,7 +5,7 @@
 
 int Solution::solve(int A, int B, int C) {
     int a = A;
-    int b = B;
+    int b = B; 
     for(int i=0; i<10; i++){
         if((a+i)%10 == C) a=a+i;
     } 
