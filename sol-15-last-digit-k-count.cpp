@@ -1,5 +1,5 @@
 //Problem-Link: https://www.interviewbit.com/problems/last-digit-k-count/
-//Solved-Date: 02-May-2023
+//Solved-Date: 15-May-2023
 //Problem-Level: Very Easy
 
 
