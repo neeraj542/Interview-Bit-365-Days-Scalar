@@ -9,7 +9,7 @@ vector<int> Solution::intersect(const vector<int> &A, const vector<int> &B) {
         if(A[i] == B[j]){ 
             ans.push_back(A[i]);
             i++;
-            j++;
+            j++; 
         }
         else if(A[i] < B[j]) i++;
         else j++;
